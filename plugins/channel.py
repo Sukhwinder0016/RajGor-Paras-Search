@@ -110,6 +110,7 @@ OTT_PLATFORMS = {
     "voot": "Voot",
     "hulu": "Hulu",
     "mubi": "Mubi",
+    "stage": "STAGE",
     "docubay": "DocuBay",
     "hungama": "Hungama", "hungamaplay": "Hungama",
     "tvf": "TVFPlay", "tvfplay": "TVFPlay",
