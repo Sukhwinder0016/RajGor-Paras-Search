@@ -32,7 +32,7 @@ IGNORE_WORDS = {
     "mar", "marathi", "guj", "gujarati", "urd", "urdu", "kor", "korean", "jpn", 
     "japanese", "nf", "netflix", "sonyliv", "sony", "sliv", "amzn", "prime", 
     "primevideo", "hotstar", "zee5", "jio", "jhs", "aha", "hbo", "paramount", 
-    "apple", "hoichoi", "sunnxt", "viki"
+    "apple", "hoichoi", "sunnxt", "viki", "haryanvi", "rajasthani"
 }|BAD_WORDS
 
 # Quality mapping dictionary
@@ -86,6 +86,8 @@ CAPTION_LANGUAGES = {
     "mal": "Malayalam", "malayalam": "Malayalam",
     "eng": "English", "english": "English",
     "pun": "Punjabi", "punjabi": "Punjabi",
+    "haryanvi": "Haryanvi",
+    "rajasthani": "Rajasthani",
     "ben": "Bengali", "bengali": "Bengali",
     "mar": "Marathi", "marathi": "Marathi",
     "guj": "Gujarati", "gujarati": "Gujarati",
@@ -103,7 +105,7 @@ OTT_PLATFORMS = {
     "aha": "Aha", "hbo": "HBO Max", "paramount": "Paramount+",
     "apple": "Apple TV+", "hoichoi": "Hoichoi", "sunnxt": "Sun NXT", 
     "viki": "Viki", "chtv": "ChaupalTV", "chpl": "ChaupalTV", "chaupal": "ChaupalTV", 
-    "kableone": "KABLEONE", 
+    "kable": "KABLEONE", "kableone": "KABLEONE", 
     "mx": "MX Player", "mxplayer": "MX Player",
     "alt": "ALTBalaji", "altbalaji": "ALTBalaji",
     "eros": "Eros Now", "erosnow": "Eros Now",
