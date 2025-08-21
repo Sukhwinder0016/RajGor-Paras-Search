@@ -210,7 +210,7 @@ Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     CAPTION = """<b><a href="https://t.me/CineHub_Cinema">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/CineHub_Cinema">[ Cɪɴᴇʜᴜʙ Cɪɴᴇᴍᴀ ]</a></b>"""
 
     
-    MOVIE_UPDATE_NOTIFY_TXT = """​<b>【{filename}】🆕️\n\n📺 Oᴛᴛ : {ott}\n🔥 Rᴀᴛɪɴɢ : {rating}★\n🎞️ Fᴏʀᴍᴀᴛ : {format}\n🖼️ Pɪxᴇʟs : {pixels}\n🎧 Aᴜᴅɪᴏ : {language}\n🎭 Gᴇɴʀᴇs : {genres}\n\n<blockquote>𝖴𝗉𝗅𝗈𝖺𝖽𝖾𝖽 𝖡𝗒 - @CineHub_Cinema</blockquote></b>"""
+    MOVIE_UPDATE_NOTIFY_TXT = """​<b>【{filename}】🆕️\n\n📺 Oᴛᴛ : {ott}\n🔥 Rᴀᴛɪɴɢ : {rating}★\n🎞️ Fᴏʀᴍᴀᴛ : {format}\n🖼️ Pɪxᴇʟs : {pixels}\n🎧 Aᴜᴅɪᴏ : {language}\n🎭 Gᴇɴʀᴇs : {genres}\n\n<blockquote>𝖴𝗉𝗅𝗈𝖺𝖽𝖾𝖽 𝖡𝗒 - <a href='https://telegram.me/CineHub_Cinema'>𝖢𝗂𝗇𝖾𝖧𝗎𝖻</a></blockquote></b>"""
 
 
     IMDB_TEMPLATE_TXT = """<b>🏷 Tɪᴛʟᴇ</b>: <a href={url}>{title}</a>
